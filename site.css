@@ -1,0 +1,21 @@
+body {
+  margin-left: 20px;
+}
+
+table {
+  border: 5px solid black;
+}
+
+td {
+  border: 2px solid lightgray;
+}
+
+tr:nth-child(odd) {
+  background: lightblue;
+}
+
+th {
+  border-bottom: 3px;
+  border-color: black;
+  border-style: solid;
+}
